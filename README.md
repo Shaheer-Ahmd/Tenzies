@@ -1,5 +1,6 @@
 # Tenzies Game
 This is a React web application that simulates the dice game called Tenzies. The goal of the game is to roll the dice until all of them show the same number. Players can click on each die to freeze it at its current value between rolls.
+<img src = "./Preview.png"></img>
 
 # How to Play
 - Click on the "Roll" button to roll the dice.
